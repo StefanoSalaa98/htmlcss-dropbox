@@ -127,6 +127,22 @@ main{
 footer{
     background-color:black;
 
+}
+
+.menu-footer{
+    display:flex;
+    padding-bottom:10px;
+    width:80%;
+
     /*DEBUG*/
-    height:100px;
+    height:200px;
+}
+
+.col-footer{
+    width:20%;
+
+    /*DEBUG*/
+
+    background-color:rgb(0, 255, 42); 
+    border:1px solid white;
 }
