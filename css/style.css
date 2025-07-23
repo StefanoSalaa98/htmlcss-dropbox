@@ -134,6 +134,36 @@ main{
     background-color:yellow;
 }
 
+main h2{
+    font-size:23px;
+}
+
+.contenitore-pulsanti{
+    display:flex;
+    margin-top:40px;
+}
+
+.contenitore-pulsanti .seleziona{
+    display:flex;
+    margin-right:50px;
+}
+
+.pulsante{
+    height:15px;
+    width:15px;
+    background-color:white;
+    border-radius:50%;
+}
+
+.mensile{
+    border:3px solid blue;
+}
+
+.annuale{
+    border: 1px solid grey;
+}
+
+
 .contenitore-scelte{
     display:flex;
 }
