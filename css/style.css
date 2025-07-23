@@ -6,6 +6,8 @@
     font-size: 12px;
 }
 
+/*Regole Header*/
+
 header{
     height:50px;
     position:fixed;
@@ -31,12 +33,24 @@ header{
     background-color:rgb(0, 255, 200);
 }
 
+/*Regole Main*/
+
 main{
 
     /*DEBUG*/
     height:1000px;
     background-color:yellow;
 }
+
+.jumbotron{
+    background-color:#B4D0E7;
+
+    /*DEBUG*/
+    height:400px;
+    
+}
+
+/*Regole Footer*/
 
 footer{
     background-color:black;
