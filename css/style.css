@@ -22,6 +22,7 @@
 }
 
 .header-sx{
+    width:50%;
     display:flex;
     align-items:center;
     gap:20px;
@@ -41,8 +42,34 @@ header img{
 
 .header-dx{
     width:50%;
-    height:100%;
     background-color:rgb(0, 255, 200);
+}
+
+header ul{
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+    gap:20px;
+    list-style-type:none;
+    height:100%;
+}
+
+.header-dx .bottone{
+    margin-right:20px;
+}
+
+.bottone{
+    padding:5px 10px;
+}
+
+.blu{
+    background-color:#0062FE;
+    color:white;
+}
+
+header a{
+    text-decoration: none;
+    color:black;
 }
 
 .jumbotron{
