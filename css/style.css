@@ -38,7 +38,6 @@ header{
 main{
 
     /*DEBUG*/
-    height:1000px;
     background-color:yellow;
 }
 
@@ -48,6 +47,14 @@ main{
     /*DEBUG*/
     height:400px;
     
+}
+
+.piano{
+    width:70%;
+
+    /*DEBUG*/
+    height:1000px;
+    border:3px solid grey;
 }
 
 /*Regole Footer*/
