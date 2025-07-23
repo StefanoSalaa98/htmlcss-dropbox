@@ -45,16 +45,10 @@
 
 main{
 
-    /*DEBUG*/
-    background-color:yellow;
-}
-
-.piano{
     width:70%;
 
     /*DEBUG*/
-    height:1000px;
-    border:3px solid grey;
+    background-color:yellow;
 }
 
 .contenitore-scelte{
@@ -76,9 +70,57 @@ main{
     /*DEBUG*/
     height:200px;
     width:100%;
+    margin-bottom:50px;
+
 }
 
+.trova-partner{
+    
+    display:flex;
 
+    /*DEBUG*/
+    height:200px;
+    width:100%;
+    margin-bottom:50px;
+
+}
+
+.trova-partner .immagine{
+
+    width:50%;
+
+    /*DEBUG*/
+    background-color: rgb(255, 0, 179);
+
+}
+
+.trova-partner .testo{
+
+    width:50%;
+
+    /*DEBUG*/
+    background-color: rgb(255, 0, 43);
+}
+
+.riga{
+    display:flex;
+    flex-wrap:wrap;
+    gap: 10px;
+}
+
+.colonna{
+    width:calc((100% / 3) - 20px);
+    min-height:500px;
+    
+    /*DEBUG*/
+    background-color:blue; 
+    border:1px solid black;
+}
+
+.contenitore-operazioni{
+    
+    padding-bottom:50px;
+}
 
 /*Regole Footer*/
 
