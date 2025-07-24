@@ -45,7 +45,6 @@ header ul{
     display:flex;
     align-items:center;
     justify-content:flex-end;
-    /*gap:20px;*/
     list-style-type:none;
     height:100%;
 }
@@ -93,7 +92,6 @@ header{
 .jumbotron{
     background-color:#B4D0E7;
     padding-top:100px;
-
 }
 
 .contenitore-jumbo{
@@ -113,9 +111,6 @@ header{
 
 .contenitore-proposta .testo{
     width:30%;
-    /*display:flex;
-    flex-direction:column;
-    justify-content:space-between;*/
 }
 
 .contenitore-proposta .testo span{
