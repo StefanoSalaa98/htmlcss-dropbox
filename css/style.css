@@ -190,6 +190,15 @@ main h2{
 .header-scelta{
     padding-top:20px;
     padding-left:15px;
+    padding-bottom:30px;
+}
+
+.header-scelta strong{
+    display:inline-block;
+}
+
+.header-scelta *{
+    margin-bottom:10px;
 }
 
 .header-scelta h3{
