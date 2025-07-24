@@ -70,15 +70,12 @@ header a{
 
 /*Effetto hover link header*/
 
-.header-top li{
-    padding-left:10px;
-    padding-right:10px;
-}
-
 .header-top li div{
     display:grid;
     align-items:center;
     height:50px;
+    padding-left:10px;
+    padding-right:10px;
     
 }
 
