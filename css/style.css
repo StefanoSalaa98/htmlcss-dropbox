@@ -204,7 +204,7 @@ main h2{
     margin-bottom:10px;
 }
 
-.contenitore-scelta h3{
+h3{
     font-size:17px;
 }
 
@@ -293,30 +293,43 @@ main h2{
 .trova-partner{
     
     display:flex;
+    padding-top:50px;
 
     /*DEBUG*/
-    height:200px;
-    width:100%;
+    
     margin-bottom:50px;
 
 }
 
 .trova-partner .immagine{
+    width:60%;
+}
 
-    width:50%;
-
-    /*DEBUG*/
-    background-color: rgb(255, 0, 179);
-
+.trova-partner .immagine img{
+    width:100%;
 }
 
 .trova-partner .testo{
-
-    width:50%;
-
-    /*DEBUG*/
-    background-color: rgb(255, 0, 43);
+    width:40%;
+    padding:0 30px;
 }
+
+.trova-partner .testo h3{
+    margin-top:30px;
+    margin-bottom:15px;
+}
+
+
+.trova-partner .testo span{
+    display:inline-block;
+    margin-top:30px;
+}
+
+.bianco{
+    border:1px solid black;
+}
+
+
 
 .riga{
     display:flex;
