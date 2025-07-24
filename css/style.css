@@ -365,23 +365,39 @@ h3{
 
 footer{
     background-color:black;
-
+    color:white;
 }
 
 .menu-footer{
+    margin: 0 auto;
     display:flex;
     padding-bottom:10px;
     width:80%;
 
     /*DEBUG*/
-    height:200px;
+    height:500px;
 }
 
 .col-footer{
     width:20%;
+    margin-top:70px;
 
     /*DEBUG*/
 
-    background-color:rgb(0, 255, 42); 
+    background-color:rgb(0, 255, 106); 
     border:1px solid white;
+}
+
+footer ul{
+    margin-top:15px;
+    list-style-type:none;
+}
+
+footer li{
+    margin-bottom:10px;
+}
+
+footer a{
+    text-decoration: none;
+    color:white;
 }
