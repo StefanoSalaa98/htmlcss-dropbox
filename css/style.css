@@ -125,13 +125,9 @@ header a{
 /*Regole Main*/
 
 main{
-
     margin: 0 auto;
     width:50%;
     margin-top:100px;
-
-    /*DEBUG*/
-    background-color:rgba(209, 255, 6, 0.315);
 }
 
 main h2{
@@ -332,7 +328,7 @@ h3{
 .riga{
     display:flex;
     flex-wrap:wrap;
-    justify-content:center;
+    justify-content:space-between;
     gap: 10px;
 }
 
@@ -351,7 +347,7 @@ h3{
 }
 
 .contenitore-operazioni{
-    margin-top:20px;
+    margin-top:40px;
     margin-bottom:70px;
 }
 
