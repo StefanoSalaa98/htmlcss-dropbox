@@ -68,6 +68,11 @@ header a{
     color:black;
 }
 
+header{
+    padding-bottom:100px;
+    border-bottom:1px solid lightgray;
+}
+
 /*Effetto hover link header*/
 
 .header-top li div{
@@ -144,7 +149,7 @@ header a{
 main{
     margin: 0 auto;
     width:50%;
-    margin-top:100px;
+    margin-top:30px;
 }
 
 main h2{
