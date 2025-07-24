@@ -167,7 +167,7 @@ main h2{
 
 .contenitore-scelte{
     display:flex;
-    justify-content:center;
+    justify-content:space-between;
     gap:20px;
 }
 
