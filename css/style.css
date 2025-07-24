@@ -172,14 +172,14 @@ main h2{
 
     /*DEBUG*/
     margin-top:50px;
-    border:1px solid grey;
+    border:1px solid lightgray;
     /*height:500px;*/
 }
 
 .categoria{
     text-align:center;
     padding:10px 0;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid lightgray;
 }
 
 .contenitore-scelta{
@@ -239,7 +239,7 @@ h3{
 
 .separatore{
     height:1px;
-    background-color: grey;
+    background-color: lightgray;
     width:20%;
     margin-top:20px;
     margin-bottom:20px;
@@ -260,7 +260,7 @@ h3{
     
     margin-bottom:50px;
     margin-top:30px;
-    border:1px solid grey;
+    border:1px solid lightgray;
 
 }
 
