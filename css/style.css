@@ -210,12 +210,17 @@ main h2{
 
 .scelta ul{
     list-style-type: none;
-    padding-right:5px;
+    padding-bottom:20px;
 }
 
 .scelta li{
     display:flex;
     margin-bottom:10px;
+    padding-right:10px;
+}
+
+.scelta ul li span{
+    font-size:10px;
 }
 
 .scelta i{
@@ -232,7 +237,7 @@ main h2{
 }
 
 .scelta .bottone{
-    margin-top:20px;
+    
     margin-bottom:20px;
 }
 
