@@ -373,17 +373,12 @@ footer{
     margin: 0 auto;
     display:flex;
     padding-bottom:10px;
-    width:80%;
+    width:70%;
 }
 
 .col-footer{
     width:20%;
     margin-top:70px;
-
-    /*DEBUG*/
-
-    background-color:rgb(0, 255, 106); 
-    border:1px solid white;
 }
 
 footer ul{
@@ -403,6 +398,7 @@ footer a{
 .footer-bottom{
     width:80%;
     margin:0 auto;
+    color:grey;
 }
 
 .separatore2{
@@ -414,5 +410,6 @@ footer a{
 }
 
 .footer-bottom i{
+    color:grey;
     margin-right:5px;
 }
