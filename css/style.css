@@ -205,6 +205,21 @@ main h2{
     font-size:17px;
 }
 
+.scelta ul{
+    list-style-type: none;
+    padding-left:15px;
+}
+
+.scelta li{
+    display:flex;
+    margin-bottom:10px;
+}
+
+.scelta i{
+    font-size:15px;
+    padding-right:5px;
+}
+
 .tipo2{
 
     /*DEBUG*/
