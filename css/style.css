@@ -166,16 +166,33 @@ main h2{
 
 .contenitore-scelte{
     display:flex;
+    justify-content:center;
+    gap:20px;
 }
 
 .scelta{
-    width:calc(100% / 3);
+    width:calc((100% / 3) - 40px);
 
     /*DEBUG*/
     margin-top:50px;
-    background-color: blue;
+    background-color: rgb(0, 255, 136);
     border:1px solid red;
     height:500px;
+}
+
+.categoria{
+    text-align:center;
+    padding:10px 0;
+    border-bottom: 1px solid gray;
+}
+
+.header-scelta{
+    padding-top:20px;
+    padding-left:15px;
+}
+
+.header-scelta h3{
+    font-size:15px;
 }
 
 .tipo2{
