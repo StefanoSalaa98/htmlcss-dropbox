@@ -80,7 +80,7 @@ header a{
 }
 
 .jumbotron h1{
-    font-size:47px;
+    font-size:55px;
     color:black;
     padding-bottom:40px;
 }
@@ -135,7 +135,8 @@ main{
 }
 
 main h2{
-    font-size:23px;
+    font-size:25px;
+    padding-top:10px;
 }
 
 .contenitore-pulsanti{
@@ -192,7 +193,7 @@ main h2{
 }
 
 .header-scelta h3{
-    font-size:15px;
+    font-size:17px;
 }
 
 .tipo2{
