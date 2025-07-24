@@ -11,8 +11,6 @@
 .header-top{
     height:50px;
     position:fixed;
-    top: 0;
-    left: 0;
     width:100%;
     z-index:1000;
     display:flex;
@@ -46,7 +44,6 @@ header ul{
     align-items:center;
     justify-content:flex-end;
     list-style-type:none;
-    height:100%;
 }
 
 .header-dx .bottone{
