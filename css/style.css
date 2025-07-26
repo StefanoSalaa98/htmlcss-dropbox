@@ -94,11 +94,12 @@ header{
 .jumbotron h1{
     font-size:55px;
     color:black;
-    padding-bottom:40px;
 }
 
 .contenitore-proposta{
     display:flex;
+    position:relative;
+    bottom:-50px;
 }
 
 .contenitore-proposta .testo{
@@ -119,7 +120,7 @@ header{
 
 .contenitore-proposta .immagine{
     width:70%;
-    height:270px;
+    /*height:270px;*/
 }
 
 .contenitore-proposta img{
