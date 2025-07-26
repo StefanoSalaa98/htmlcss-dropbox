@@ -148,12 +148,12 @@ main h2{
     padding-top:10px;
 }
 
-.contenitore-pulsanti{
+#contenitore-pulsanti{
     display:flex;
     margin-top:40px;
 }
 
-.contenitore-pulsanti .seleziona{
+#contenitore-pulsanti .seleziona{
     display:flex;
     margin-right:50px;
 }
