@@ -26,8 +26,14 @@
 }
 
 .header-sx img{
-    height:40%;
-    margin-left:20px;
+    height:80%;
+    margin-left:10px;
+    margin-bottom:3px;
+}
+
+.logo{
+    display:grid;
+    align-items:center;
 }
 
 .header-dx{
@@ -75,7 +81,7 @@ header{
     
 }
 
-.header-top li:hover{
+.header-top li .link:hover{
     border-bottom: 1px solid gray;
 }
 
